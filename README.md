@@ -1,4 +1,11 @@
 <div align="center">
+
+---
+
+[you can see websites using this : 🌐 Browser](browse.md)
+
+---
+
   <img src="icon.gif" width="400" alt="wide-2" />
 </div>
 
