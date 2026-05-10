@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nikzad-avasam/downloader/refs/heads/main/dl-icon.gif" width="400" alt="wide-2" />
+  <img src="icon.gif" width="400" alt="wide-2" />
 </div>
 
 ## ⬇️ دانلود کننده فایل + 🌐 مرورگر وب ( نسخه ۲ )
