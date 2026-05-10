@@ -42,7 +42,7 @@ jobs:
             });
             const page = await browser.newPage();
             await page.setViewport({ width: 1280, height: 720 });
-            
+
             try {
               await page.goto(url, { waitUntil: 'networkidle2', timeout: 30000 });
               await page.screenshot({ path: outputPath, fullPage: true });
@@ -59,12 +59,12 @@ jobs:
       - name: Visit URL and download media
         run: |
           RAW_URL="${{ github.event.inputs.url }}"
-          
+
           # Normalize URL: try HTTPS first if no protocol given
           if [[ ! "$RAW_URL" =~ ^https?:// ]]; then
             HTTPS_URL="https://$RAW_URL"
             HTTP_URL="http://$RAW_URL"
-            
+
             echo "Trying HTTPS: $HTTPS_URL"
             if curl -L --connect-timeout 10 --max-time 30 -o /dev/null -s -w "%{http_code}" "$HTTPS_URL" | grep -q "200\|301\|302\|303\|307\|308"; then
               URL="$HTTPS_URL"
@@ -76,12 +76,12 @@ jobs:
           else
             URL="$RAW_URL"
           fi
-          
+
           echo "Visiting $URL"
 
           # Extract domain (remove protocol and optional www)
           DOMAIN=$(echo "$URL" | awk -F/ '{print $3}' | sed 's/^www\.//')
-          
+
           SLUG=$(echo "$URL" | sed 's/[^a-zA-Z0-9]/_/g' | cut -c1-100)
           TIMESTAMP=$(date +%Y%m%d_%H%M%S)
           FOLDER="pages/$DOMAIN/$SLUG/$TIMESTAMP"
@@ -116,7 +116,7 @@ jobs:
 
           while IFS= read -r link; do
             [ -z "$link" ] && continue
-            
+
             if [[ "$link" = /* ]]; then
               ABSOLUTE_URL="${BASE_URL}${link}"
             elif [[ "$link" =~ ^https?:// ]]; then
@@ -132,7 +132,7 @@ jobs:
               echo "Downloading: $ABSOLUTE_URL"
               FILENAME=$(basename "$link" | sed 's/[?#].*//')
               [ -f "$MEDIA_FOLDER/$FILENAME" ] && FILENAME="$(date +%s)_$FILENAME"
-              
+
               curl -L --retry 2 --max-time 60 -o "$MEDIA_FOLDER/$FILENAME" "$ABSOLUTE_URL" 2>/dev/null && {
                 FILE_SIZE=$(stat -c%s "$MEDIA_FOLDER/$FILENAME" 2>/dev/null || echo 0)
                 if [ "$FILE_SIZE" -gt 0 ]; then
@@ -209,7 +209,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add pages/ browse.md
+          git add -f pages/ browse.md
           if git diff --staged --quiet; then
             echo "Nothing to commit"
             exit 0
