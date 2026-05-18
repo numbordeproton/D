@@ -1,0 +1,294 @@
+# Qwen3.6-35B-A3B-UD-Q2_K_XL
+
+---
+
+## Download Information
+
+| Property | Value |
+|----------|-------|
+| **Original File** | `Qwen3.6-35B-A3B-UD-Q2_K_XL.gguf` |
+| **Total Size** | **263 parts** - **11813.37 MB** |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
+
+---
+
+## Download Links
+
+| # | File | Link |
+|---|------|------|
+| 1 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z01` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z01) |
+| 2 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z02` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z02) |
+| 3 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z03` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z03) |
+| 4 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z04` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z04) |
+| 5 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z05` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z05) |
+| 6 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z06` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z06) |
+| 7 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z07` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z07) |
+| 8 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z08` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z08) |
+| 9 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z09` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z09) |
+| 10 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z10` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z10) |
+| 11 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z11` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z11) |
+| 12 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z12` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z12) |
+| 13 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z13` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z13) |
+| 14 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z14` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z14) |
+| 15 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z15` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z15) |
+| 16 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z16` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z16) |
+| 17 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z17` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z17) |
+| 18 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z18` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z18) |
+| 19 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z19` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z19) |
+| 20 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z20` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z20) |
+| 21 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z21` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z21) |
+| 22 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z22` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z22) |
+| 23 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z23` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z23) |
+| 24 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z24` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z24) |
+| 25 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z25` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z25) |
+| 26 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z26` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z26) |
+| 27 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z27` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z27) |
+| 28 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z28` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z28) |
+| 29 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z29` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z29) |
+| 30 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z30` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z30) |
+| 31 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z31` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z31) |
+| 32 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z32` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z32) |
+| 33 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z33` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z33) |
+| 34 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z34` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z34) |
+| 35 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z35` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z35) |
+| 36 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z36` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z36) |
+| 37 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z37` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z37) |
+| 38 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z38` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z38) |
+| 39 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z39` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z39) |
+| 40 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z40` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z40) |
+| 41 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z41` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z41) |
+| 42 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z42` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z42) |
+| 43 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z43` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z43) |
+| 44 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z44` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z44) |
+| 45 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z45` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z45) |
+| 46 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z46` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z46) |
+| 47 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z47` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z47) |
+| 48 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z48` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z48) |
+| 49 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z49` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z49) |
+| 50 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z50` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z50) |
+| 51 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z51` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z51) |
+| 52 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z52` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z52) |
+| 53 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z53` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z53) |
+| 54 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z54` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z54) |
+| 55 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z55` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z55) |
+| 56 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z56` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z56) |
+| 57 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z57` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z57) |
+| 58 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z58` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z58) |
+| 59 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z59` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z59) |
+| 60 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z60` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z60) |
+| 61 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z61` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z61) |
+| 62 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z62` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z62) |
+| 63 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z63` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z63) |
+| 64 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z64` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z64) |
+| 65 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z65` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z65) |
+| 66 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z66` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z66) |
+| 67 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z67` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z67) |
+| 68 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z68` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z68) |
+| 69 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z69` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z69) |
+| 70 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z70` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z70) |
+| 71 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z71` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z71) |
+| 72 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z72` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z72) |
+| 73 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z73` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z73) |
+| 74 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z74` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z74) |
+| 75 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z75` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z75) |
+| 76 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z76` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z76) |
+| 77 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z77` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z77) |
+| 78 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z78` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z78) |
+| 79 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z79` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z79) |
+| 80 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z80` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z80) |
+| 81 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z81` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z81) |
+| 82 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z82` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z82) |
+| 83 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z83` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z83) |
+| 84 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z84` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z84) |
+| 85 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z85` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z85) |
+| 86 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z86` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z86) |
+| 87 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z87` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z87) |
+| 88 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z88` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z88) |
+| 89 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z89` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z89) |
+| 90 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z90` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z90) |
+| 91 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z91` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z91) |
+| 92 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z92` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z92) |
+| 93 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z93` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z93) |
+| 94 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z94` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z94) |
+| 95 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z95` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z95) |
+| 96 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z96` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z96) |
+| 97 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z97` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z97) |
+| 98 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z98` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z98) |
+| 99 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z99` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z99) |
+| 100 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z100` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z100) |
+| 101 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z101` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z101) |
+| 102 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z102` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z102) |
+| 103 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z103` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z103) |
+| 104 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z104` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z104) |
+| 105 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z105` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z105) |
+| 106 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z106` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z106) |
+| 107 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z107` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z107) |
+| 108 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z108` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z108) |
+| 109 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z109` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z109) |
+| 110 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z110` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z110) |
+| 111 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z111` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z111) |
+| 112 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z112` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z112) |
+| 113 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z113` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z113) |
+| 114 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z114` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z114) |
+| 115 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z115` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z115) |
+| 116 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z116` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z116) |
+| 117 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z117` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z117) |
+| 118 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z118` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z118) |
+| 119 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z119` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z119) |
+| 120 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z120` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z120) |
+| 121 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z121` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z121) |
+| 122 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z122` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z122) |
+| 123 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z123` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z123) |
+| 124 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z124` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z124) |
+| 125 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z125` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z125) |
+| 126 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z126` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z126) |
+| 127 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z127` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z127) |
+| 128 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z128` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z128) |
+| 129 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z129` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z129) |
+| 130 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z130` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z130) |
+| 131 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z131` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z131) |
+| 132 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z132` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z132) |
+| 133 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z133` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z133) |
+| 134 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z134` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z134) |
+| 135 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z135` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z135) |
+| 136 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z136` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z136) |
+| 137 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z137` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z137) |
+| 138 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z138` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z138) |
+| 139 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z139` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z139) |
+| 140 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z140` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z140) |
+| 141 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z141` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z141) |
+| 142 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z142` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z142) |
+| 143 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z143` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z143) |
+| 144 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z144` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z144) |
+| 145 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z145` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z145) |
+| 146 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z146` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z146) |
+| 147 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z147` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z147) |
+| 148 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z148` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z148) |
+| 149 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z149` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z149) |
+| 150 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z150` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z150) |
+| 151 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z151` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z151) |
+| 152 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z152` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z152) |
+| 153 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z153` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z153) |
+| 154 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z154` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z154) |
+| 155 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z155` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z155) |
+| 156 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z156` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z156) |
+| 157 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z157` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z157) |
+| 158 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z158` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z158) |
+| 159 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z159` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z159) |
+| 160 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z160` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z160) |
+| 161 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z161` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z161) |
+| 162 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z162` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z162) |
+| 163 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z163` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z163) |
+| 164 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z164` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z164) |
+| 165 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z165` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z165) |
+| 166 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z166` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z166) |
+| 167 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z167` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z167) |
+| 168 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z168` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z168) |
+| 169 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z169` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z169) |
+| 170 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z170` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z170) |
+| 171 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z171` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z171) |
+| 172 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z172` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z172) |
+| 173 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z173` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z173) |
+| 174 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z174` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z174) |
+| 175 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z175` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z175) |
+| 176 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z176` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z176) |
+| 177 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z177` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z177) |
+| 178 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z178` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z178) |
+| 179 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z179` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z179) |
+| 180 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z180` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z180) |
+| 181 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z181` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z181) |
+| 182 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z182` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z182) |
+| 183 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z183` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z183) |
+| 184 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z184` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z184) |
+| 185 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z185` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z185) |
+| 186 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z186` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z186) |
+| 187 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z187` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z187) |
+| 188 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z188` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z188) |
+| 189 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z189` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z189) |
+| 190 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z190` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z190) |
+| 191 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z191` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z191) |
+| 192 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z192` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z192) |
+| 193 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z193` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z193) |
+| 194 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z194` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z194) |
+| 195 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z195` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z195) |
+| 196 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z196` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z196) |
+| 197 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z197` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z197) |
+| 198 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z198` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z198) |
+| 199 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z199` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z199) |
+| 200 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z200` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z200) |
+| 201 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z201` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z201) |
+| 202 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z202` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z202) |
+| 203 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z203` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z203) |
+| 204 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z204` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z204) |
+| 205 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z205` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z205) |
+| 206 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z206` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z206) |
+| 207 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z207` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z207) |
+| 208 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z208` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z208) |
+| 209 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z209` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z209) |
+| 210 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z210` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z210) |
+| 211 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z211` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z211) |
+| 212 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z212` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z212) |
+| 213 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z213` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z213) |
+| 214 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z214` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z214) |
+| 215 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z215` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z215) |
+| 216 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z216` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z216) |
+| 217 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z217` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z217) |
+| 218 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z218` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z218) |
+| 219 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z219` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z219) |
+| 220 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z220` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z220) |
+| 221 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z221` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z221) |
+| 222 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z222` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z222) |
+| 223 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z223` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z223) |
+| 224 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z224` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z224) |
+| 225 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z225` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z225) |
+| 226 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z226` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z226) |
+| 227 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z227` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z227) |
+| 228 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z228` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z228) |
+| 229 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z229` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z229) |
+| 230 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z230` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z230) |
+| 231 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z231` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z231) |
+| 232 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z232` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z232) |
+| 233 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z233` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z233) |
+| 234 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z234` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z234) |
+| 235 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z235` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z235) |
+| 236 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z236` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z236) |
+| 237 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z237` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z237) |
+| 238 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z238` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z238) |
+| 239 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z239` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z239) |
+| 240 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z240` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z240) |
+| 241 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z241` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z241) |
+| 242 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z242` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z242) |
+| 243 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z243` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z243) |
+| 244 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z244` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z244) |
+| 245 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z245` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z245) |
+| 246 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z246` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z246) |
+| 247 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z247` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z247) |
+| 248 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z248` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z248) |
+| 249 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z249` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z249) |
+| 250 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z250` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z250) |
+| 251 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z251` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z251) |
+| 252 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z252` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z252) |
+| 253 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z253` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z253) |
+| 254 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z254` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z254) |
+| 255 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z255` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z255) |
+| 256 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z256` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z256) |
+| 257 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z257` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z257) |
+| 258 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z258` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z258) |
+| 259 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z259` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z259) |
+| 260 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z260` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z260) |
+| 261 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z261` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z261) |
+| 262 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.z262` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.z262) |
+| 263 | `Qwen3.6-35B-A3B-UD-Q2_K_XL.zip` | [Download](https://github.com/numbordeproton/D/raw/main/downloads/Qwen3.6-35B-A3B-UD-Q2_K_XL/Qwen3.6-35B-A3B-UD-Q2_K_XL.zip) |
+
+---
+
+## How to Extract
+
+1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
+2. **Open** `Qwen3.6-35B-A3B-UD-Q2_K_XL.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
+3. **Extract** — all parts combine automatically
+
+---
+
+*This tool created by [avasam.ir](https://avasam.ir)*
